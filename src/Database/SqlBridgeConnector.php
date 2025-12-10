@@ -1,6 +1,6 @@
 <?php
 
-namespace YourVendor\LaravelSqlServerBridge\Database;
+namespace Amohamed\LaravelSqlServerBridge\Database;
 
 use Illuminate\Database\Connectors\ConnectorInterface;
 
