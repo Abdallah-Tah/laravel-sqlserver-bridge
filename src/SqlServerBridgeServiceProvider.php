@@ -1,10 +1,10 @@
 <?php
 
-namespace YourVendor\LaravelSqlServerBridge;
+namespace Amohamed\LaravelSqlServerBridge;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Facades\DB;
-use YourVendor\LaravelSqlServerBridge\Database\SqlBridgeConnector;
+use Amohamed\LaravelSqlServerBridge\Database\SqlBridgeConnector;
 
 class SqlServerBridgeServiceProvider extends ServiceProvider
 {
